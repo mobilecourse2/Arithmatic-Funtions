@@ -1,27 +1,5 @@
 import java.util.Scanner;
-
-
-/*public class add1{
-
-			public static void add(int a,int b){
-
-					System.out.print(a+b);
-					//return add;
-}
-
-public static void main(String[] args){
-
-add(5,5);
-
-}
-}
-public class add2{
-	add1.add(5,15);
-}*/
-
-
-
-			public class add{
+	public class add{
 				public static int add1(int a,int b){
 					
 					System.out.println("Sum is ="+(a+b));
